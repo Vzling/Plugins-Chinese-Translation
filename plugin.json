@@ -1,0 +1,12 @@
+{
+  "id": "chinese_translation",
+  "minversion": 20210100000,
+  "info": {
+    "name": "chinese",
+    "version": "1.4",
+    "description": "Some non-Chinese plugins were implemented",
+    "author": "Jin1358, Pillager_MinecraftPlayer",
+    "updateJSONURL": "",
+    "pluginPageID": 96204
+  }
+}
