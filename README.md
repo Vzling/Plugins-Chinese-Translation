@@ -1,3 +1,5 @@
+![pict](https://github.com/Jin1358/Plugins-Chinese-Translation/assets/126249552/81b94bc5-18eb-41b9-b509-dc679d702a95)
+
 The plugin adds Chinese translations to some of the plugins so that Chinese developers can easily understand the plug-in.     
 
 This translation is mostly produced by machine translation and personal modification, so there may be some translation errors, inaccurate translation and other problems.     
